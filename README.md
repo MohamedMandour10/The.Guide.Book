@@ -15,6 +15,5 @@ Contributions to the guidebook are welcome and encouraged. If you have suggestio
 
 ## Cover Design
 ![third editoin](https://i.ibb.co/d7cf1Ss/GB-V3-Mock.png)
-<img src="https://i.ibb.co/MZyt75p/GB-V2.png" alt="second edition" width="370"/>
-<img src="https://i.ibb.co/f06GdN0/GB-N1-0mockup.png" alt="first edition" width="510"/>
+
 
